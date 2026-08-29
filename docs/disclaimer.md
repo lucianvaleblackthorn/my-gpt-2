@@ -1,30 +1,16 @@
-> [返回 README 首页](../README.md) | [完整画廊总览](./gallery.md) | [提示词模板](./templates.md)
+> [Back to README](../README.md) | [Full Gallery Overview](./gallery.md) | [Prompt Templates](./templates.md)
 
-## 致谢与来源声明
+## Acknowledgments & Source Notice
 
-本项目在整理与研究过程中，参考并使用了 [YouMind](https://youmind.com/) 与 [OpenNana](https://opennana.com/) 的公开提示词库内容，仅用于学习、归纳与方法论研究。相关内容版权归原作者或原平台所有，如有侵权或不当使用请联系处理，我们将第一时间修正或下线。
+During research and compilation, this project referenced public prompt libraries from [YouMind](https://youmind.com/) and [OpenNana](https://opennana.com/) for learning, summarization, and methodology research. The copyright of that content belongs to the respective original authors and platforms.
 
-<a name="section-disclaimer"></a>
+## Disclaimer
 
-## 声明 (Disclaimer)
+This project only collects publicly accessible community prompts and example images, intended for learning and research. We do not claim ownership of any third-party original content.
 
-本项目仅整理公开可访问的社区提示词与示例图片，默认用于学习与研究，不主张对第三方原创内容的任何所有权。
+All prompt cases and generated images in this project originally drew inspiration and data from the public community (especially [YouMind](https://youmind.com/) and [OpenNana](https://opennana.com/)). We created this project purely for organizing and researching prompt engineering methodologies.
 
-本项目里的所有提示词案例和生成的图片，最初的灵感和数据来源均来自公开社区（特别是 [YouMind](https://youmind.com/) 与 [OpenNana](https://opennana.com/)）。我们做这个项目，纯粹是想把”好看的皮囊”拆解成”可复用的代码灵魂”，仅供大家学习、归纳和做大模型 Agent 接入的自动化测试。
-
-- 我们尽最大努力保留原始来源（作者主页、原帖链接、原仓库链接）。
-- 涉及第三方内容时，遵循来源仓库声明（含 `CC BY 4.0` 等）及对应平台规则。
-- 若你是原作者或权利人，认为某条内容不应展示，请在本仓库发起 Issue 并附上条目链接，我们将在核验后快速下架。
-- 本仓库不保证第三方内容可用于商业用途；商业使用前请自行取得原权利方授权。
-
-**如果你觉得这个库帮到了你，请点亮右上角的 Star ⭐。**
-
-## Star 趋势图
-
-[![Star History Chart](https://api.star-history.com/svg?repos=freestylefly/awesome-gpt-image-2&type=Date)](https://star-history.com/#freestylefly/awesome-gpt-image-2&Date)
-
-## 公众号与交流群
-
-微信搜 **苍何** 或扫描下方二维码关注苍何公众号。加入 GPT-Image2 交流群，请关注后回复：**gpt-image-2交流群**。
-
-![苍何微信交流群二维码](../data/images/wechat-community.jpg)
+- We make every effort to preserve original sources (author pages, original post links, original repo links).
+- For third-party content, we follow the source repository licenses (including CC BY 4.0) and the corresponding platform rules.
+- If you are the original author or rights holder and believe certain content should not be displayed, please open an issue in this repo with the item link — we will verify and remove it promptly.
+- This repo does not guarantee that third-party content is suitable for commercial use; please obtain authorization from the rights holder before commercial use.
